@@ -1,0 +1,30 @@
+body {
+    background-color: #605678;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 30%;
+}
+
+h1 {
+    font-size: 8rem;
+    color: #8ABFA3;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+}
+
+h2{
+    color: #8ABFA3;
+    font-family: 'DynaPuff', serif;
+    font-size: 3rem;
+}
+
+#player1 {
+    padding-right: 3%;
+}
+
+a {
+    text-decoration: none;
+}
